@@ -1,5 +1,7 @@
-
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+<!-- SI PREFIERES TU PROPIA IMAGEN PNG, CAMBIA EL ENLACE EN "src=" DE ABAJO -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=¡Hola,%20soy%20Jhojan!&fontSize=70&desc=Systems%20Engineering%20Student%20%7C%20Backend%20%26%20SysAdmin&descAlignY=75&fontAlignY=40" alt="Header Jhojan" />
+</div>
 
 I'm a 19-year-old Systems and Informatics Engineering student at UTP from Ica, Peru. I am passionate about backend software development, database management, and building self-hosted Home Lab infrastructures.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -8,7 +10,7 @@ I'm a 19-year-old Systems and Informatics Engineering student at UTP from Ica, P
 - 👯 I’m looking to collaborate on: Java, Spring Boot, and C# projects.
 - 🤔 I’m looking for: Exciting backend development or SysAdmin challenges.
 - 💬 Ask me about: PostgreSQL, Docker, Portainer, or PC hardware assembly.
-- 📫 How to reach me: [tu-correo@email.com](mailto:tu-correo@email.com)
+- 📫 How to reach me: [jhojan.junes.04@gmail.com](mailto:jhojan.junes.04@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I run a complete private cloud on an optimized i7-2600K processor.
 
@@ -16,7 +18,10 @@ I'm a 19-year-old Systems and Informatics Engineering student at UTP from Ica, P
 
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tu-linkedin/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/tu-usuario-github)&nbsp;  
+<!-- REEMPLAZA EL ENLACE DE ABAJO CON LA URL DE TU PERFIL DE LINKEDIN -->
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/TU-ENLACE-AQUI/)&nbsp;  
+<!-- REEMPLAZA EL ENLACE DE ABAJO CON LA URL DE TU PERFIL DE GITHUB -->
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/TU-USUARIO-AQUI)&nbsp;  
 
 <img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
  <br/>
@@ -37,34 +42,44 @@ I'm a 19-year-old Systems and Informatics Engineering student at UTP from Ica, P
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' height='50'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' height='50'/>&nbsp;
 
-![Profile views](https://gpvc.arturio.dev/tu-usuario-github)
+<!-- REEMPLAZA "TU-USUARIO-AQUI" CON TU NOMBRE DE USUARIO DE GITHUB -->
+![Profile views](https://gpvc.arturio.dev/awuwus)
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
-| ![](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github) |
-| --- | --- |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![Jhojan's github activity graph](https://activity-graph.herokuapp.com/graph?username=tu-usuario-github&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
+<!-- REEMPLAZA "TU-USUARIO-AQUI" EN LOS DOS ENLACES DE ESTA TABLA -->
+| ![](https://github-readme-stats.vercel.app/api?username=awuwus&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awuwus) |
+| --- | --- |
+<!-- REEMPLAZA "TU-USUARIO-AQUI" EN EL ENLACE DE ABAJO -->
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=awuwus) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+
+<!-- REEMPLAZA "TU-USUARIO-AQUI" EN EL ENLACE DE ABAJO -->
+![Jhojan's github activity graph](https://activity-graph.herokuapp.com/graph?username=awuwus&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
 
 ## Watch my contribution graph being eaten by a snake🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tu-usuario-github/tu-usuario-github/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <!-- REEMPLAZA "TU-USUARIO-AQUI" EN LAS DOS PARTES DEL ENLACE DE ABAJO -->
+  <img src="https://raw.githubusercontent.com/awuwus/awuwus/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 ## My Trending Repos 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario-github&repo=SIGCA-Attendance-System&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/tu-usuario-github/SIGCA-Attendance-System)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario-github&repo=SPSS-to-Docx-Automator&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/tu-usuario-github/SPSS-to-Docx-Automator)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario-github&repo=HomeLab-Infrastructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/tu-usuario-github/HomeLab-Infrastructure)
+<!-- REEMPLAZA "TU-USUARIO-AQUI" Y AJUSTA "repo=" SI TUS REPOSITORIOS TIENEN OTRO NOMBRE -->
+[![](https://github-readme-stats.vercel.app/api/pin/?username=awuwus&repo=SIGCA-Attendance-System&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/awuwus/SIGCA-Attendance-System)
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=tu-usuario-github'> <a href="https://github.com/tu-usuario-github?tab=followers"><img src="https://img.shields.io/github/followers/tu-usuario-github?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- REEMPLAZA "TU-USUARIO-AQUI" Y AJUSTA "repo=" SI TUS REPOSITORIOS TIENEN OTRO NOMBRE -->
+[![](https://github-readme-stats.vercel.app/api/pin/?username=awuwus&repo=SPSS-to-Docx-Automator&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/awuwus/SPSS-to-Docx-Automator)
+
+<!-- REEMPLAZA "TU-USUARIO-AQUI" Y AJUSTA "repo=" SI TUS REPOSITORIOS TIENEN OTRO NOMBRE -->
+[![](https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO-AQUI&repo=homelab-infrastructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/TU-USUARIO-AQUI/homelab-infrastructure)
+
+<!-- REEMPLAZA "TU-USUARIO-AQUI" EN LOS DOS ENLACES DE ABAJO -->
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=awuwus'> <a href="https://github.com/TU-USUARIO-AQUI?tab=followers"><img src="https://img.shields.io/github/followers/awuwus?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-------
