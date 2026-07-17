@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=¡Hola,%20soy%20Jhojan!&fontSize=70&desc=Systems%20Engineering%20Student%20%7C%20Backend%20%26%20SysAdmin&descAlignY=75&fontAlignY=40" alt="Header Jhojan" />
+  <img src="" />
 </div>
 
 I'm a 19-year-old Systems and Informatics Engineering student at UTP from Ica, Peru. I am passionate about backend software development, database management, and building self-hosted Home Lab infrastructures.
