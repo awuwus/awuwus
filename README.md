@@ -2,7 +2,6 @@
 </div>
 
 I'm a 19-year-old Systems and Informatics Engineering student at UTP from Ica, Peru. I am passionate about backend software development, database management, and building self-hosted Home Lab infrastructures.
-<img width="50%" align="right" alt="Github Image" src="" />
 - 🔭 I’m currently working on: Backend APIs and Docker container orchestration.
 - 🌱 I’m currently learning: Advanced English (B1) and Linux system optimization.
 - 👯 I’m looking to collaborate on: Java, Spring Boot, and C# projects.
