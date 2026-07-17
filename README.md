@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="" />
 </div>
 
 I'm a 19-year-old Systems and Informatics Engineering student at UTP from Ica, Peru. I am passionate about backend software development, database management, and building self-hosted Home Lab infrastructures.
