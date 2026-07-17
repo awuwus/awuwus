@@ -17,9 +17,7 @@ I'm a 19-year-old Systems and Informatics Engineering student at UTP from Ica, P
 
 <!-- LinkedIn está comentado. Para mostrarlo, borra el "<! - -" del inicio y el "- ->" del final -->
 <!-- [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/TU-ENLACE-AQUI/)&nbsp; -->
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/awuwus)&nbsp;  
 
-<img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
  <br/>
  
 ## 👨‍💻 &nbsp;Talking to Computers Using :
