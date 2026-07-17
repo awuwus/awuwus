@@ -1,4 +1,3 @@
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/text.gif" height="30"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
